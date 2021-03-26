@@ -1,12 +1,13 @@
 
 ---
-permalink: https://rich970.github.io/research/
-title: "Functional magnetic alloys, magnetoplasmonics and spintronics."
-excerpt: "My research"
+layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research.html
+redirect_from:
+  - /research
 ---
+
   ## High entropy alloys
 
     These alloys are concocted to have no single base element, instead having many elemental components mixed in near equal atomic proportions. Competing thermodynamic contributions, including a high entropy of mixing, help to stabilise solid solutions with simple crystalline phases. The alloy composition can be further tuned to obtain nanoprecipitation and the formation of ordered phases alongside the solid solution, to influence the magnetic functionality.  Richard is interested in combining high-throughput experiments with computational methods for the design of high entropy alloys with functional magnetic properties useful for transformers, inductors, electromagnets and electromagnetic shielding.
