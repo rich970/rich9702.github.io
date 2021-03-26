@@ -83,14 +83,11 @@ author:
   name             : "Richard"
   avatar           : "profile.png"
   bio              : "Scientific researcher with a strong background in experimentation, data analysis, scientific writing and collaborative research. "
-
-Interested in developing new advanced magnetic materials, including multi-component alloys and multilayers, guided by experimental and informatics approaches, including machine learning."
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Sheffield"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?user=qtSIPc0AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -98,20 +95,20 @@ Interested in developing new advanced magnetic materials, including multi-compon
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rich970"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-3881-4064"
   pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  soundcloud       : "https://soundcloud.com/rowanrobinson"
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@Richard51925849"
   vine             :
   weibo            :
   xing             :
