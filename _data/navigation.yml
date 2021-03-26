@@ -3,13 +3,7 @@ main:
   - title: "Research"
     url: /research/
     
-  - title: "Data science"
-    url: /year-archive/
-    
-  - title: "Folk music"
-    url: /year-archive/
-
-  - title: "Maker projects"
+  - title: "Projects"
     url: /year-archive/
 
   - title: "Resources"
