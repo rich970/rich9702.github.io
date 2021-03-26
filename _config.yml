@@ -82,13 +82,8 @@ analytics:
 author:
   name             : "Richard"
   avatar           : "profile.png"
-  bio              : > Scientific researcher with a strong background in experimentation,
-                       data analysis, scientific writing and collaborative research. 
-                       Specialist in magnetism and magnetic materials with 7+ years 
-                       experience operating and developing magnetic, optical and 
-                       electrical measurement systems, alongside, vacuum systems, 
-                       x-ray scattering techniques, physical vapour deposition systems 
-                       and nanostructuring processes.
+  bio              : "Scientific researcher with a strong background in experimentation," +
+                       "data analysis, scientific writing and collaborative research. "
 
 Interested in developing new advanced magnetic materials, including multi-component alloys and multilayers, guided by experimental and informatics approaches, including machine learning."
   location         : "Location"
