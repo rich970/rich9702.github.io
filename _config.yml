@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Richad Rowan-Robinson"
+title                    : "Richard Rowan-Robinson"
 title_separator          : "-"
 name                     : &name "Richard"
 description              : &description "personal description"
