@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Test button {: .btn}
+[Data science](https://github.com/rich970/){: .btn }
 
 [test link](https://github.com/rich970/)
 
