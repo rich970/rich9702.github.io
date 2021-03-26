@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Data science"
+  - title: "Data science and coding"
     url: /year-archive/
     
   - title: "Folk music"
@@ -9,12 +9,15 @@ main:
   - title: "Maker projects"
     url: /year-archive/
     
-  - title: "Publications"
-    url: /publications/
+   - title: "Research"
+    url: /year-archive/
 
-  - title: "Outreach and Teaching"
+  - title: "Resources, outreach and teaching"
     url: /teaching/    
     
+  - title: "Publications"
+    url: /publications/
+  
   - title: "CV"
     url: /cv/
 
