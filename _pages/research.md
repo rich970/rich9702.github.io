@@ -1,6 +1,6 @@
 
 ---
-permalink: /research/
+permalink: https://rich970.github.io/research/
 title: "Functional magnetic alloys, magnetoplasmonics and spintronics."
 excerpt: "My research"
 author_profile: true
