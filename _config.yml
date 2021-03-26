@@ -80,9 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Richard"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : > Scientific researcher with a strong background in experimentation,
+                       data analysis, scientific writing and collaborative research. 
+                       Specialist in magnetism and magnetic materials with 7+ years 
+                       experience operating and developing magnetic, optical and 
+                       electrical measurement systems, alongside, vacuum systems, 
+                       x-ray scattering techniques, physical vapour deposition systems 
+                       and nanostructuring processes.
+
+Interested in developing new advanced magnetic materials, including multi-component alloys and multilayers, guided by experimental and informatics approaches, including machine learning."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
