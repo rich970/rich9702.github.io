@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Test button {.btn}
+Test button {: .btn}
 
 [test link](https://github.com/rich970/)
 
