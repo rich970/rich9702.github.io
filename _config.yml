@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Richard"
   avatar           : "profile.png"
-  bio              : "Scientific researcher with a strong background in experimentation," +
-                       "data analysis, scientific writing and collaborative research. "
+  bio              : "Scientific researcher with a strong background in experimentation, data analysis, scientific writing and collaborative research. "
 
 Interested in developing new advanced magnetic materials, including multi-component alloys and multilayers, guided by experimental and informatics approaches, including machine learning."
   location         : "Location"
