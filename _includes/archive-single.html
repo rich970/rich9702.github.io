@@ -39,7 +39,7 @@
     {% endif %}
     
     {% if post.tags.size > 0 %}
-      {% include tag-list.html %}
+      <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].tags_label | default: "Tags:" }} {% include tag-list.html %} </strong>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
