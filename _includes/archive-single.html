@@ -39,7 +39,8 @@
     {% endif %}
     
     {% if post.tag %}
-      <p class="fa fa-fw fa-tags"><i class="fa fa-fw fa-tags" aria-hidden="true"></i> {% include tag-list.html %}</p>
+      Tag{% if post.tags.size > 1 %}s{% endif %}:
+      {{ post.tags | sort | join: ", " }}
     {% endif %}
 
         {% if post.collection == 'teaching' %}
