@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Test data science post'
 date: 2021-03-26
 permalink: /posts/2012/08/test_data_science_post/
