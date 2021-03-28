@@ -11,7 +11,6 @@ redirect_from:
 
 [test link](https://github.com/rich970/)
 
-test
 
 This is a space where I post my completed and ongoing projects. The nature of these vary across my interests, which include data science, hobby electronics, folk music, science and technology. The result is quite a mixed bag, a smorgasbord of blog posts.
 
