@@ -10,11 +10,11 @@ I've been interested to see if the pandemic has had an effect on the number of p
 
 So as 2020 drew to a close, I wanted to look into whether COVID had indeed had an impact on academic output or whether it was unchanged by the pandemic. To me, the best place to do this was to look at the number of publications per year. 
 
-To obtain this data I manually submitted search querries to Web of Science. I restricted the search to their core collection, returning only articles and those written in English. 
+To obtain this data I submitted search querries to Web of Science, restricting the search to their core collection, returning only articles and those written in English. 
 
 
 
-Headings are cool
+
 ======
 
 You can have many headings
